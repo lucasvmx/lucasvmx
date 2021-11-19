@@ -11,4 +11,4 @@ I'm Lucas, a software developer from Brazil. I enjoy to work with electronics, b
 - 📫 How to reach me: [e-mail](mailto:lucas.engen.cc@gmail.com)
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucas-engen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-engen&langs_count=8&hide=makefile,batch,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-engen&langs_count=8&hide=makefile,batch,shell,qmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
