@@ -6,9 +6,7 @@
 
 I'm Lucas, a software developer from Brazil. I enjoy to work with electronics, backend development, low level programming and game hacking
 
-- 🌱 I’m currently learning javascript and go
 - 👯 I’m looking to collaborate with opensource projects
-- 🤔 I’m looking for help with writing shellcodes
 - 💬 Ask me about IoT, electronics and correlated things
 - 📫 How to reach me: [e-mail](mailto:lucas.engen.cc@gmail.com)
 
