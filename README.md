@@ -10,5 +10,3 @@ I'm Lucas, a software developer from Brazil. I enjoy to work with electronics, b
 - 💬 Ask me about IoT, electronics and correlated things
 - 📫 How to reach me: [e-mail](mailto:lucas.engen.cc@gmail.com)
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasvmx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvmx&langs_count=8&hide=makefile,batch,shell,qmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
