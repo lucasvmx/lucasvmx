@@ -1,12 +1,28 @@
-### Hey 👋
+## 👋 Sobre mim
 
-<!--
-**lucas-engen/lucas-engen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Sou Lucas, desenvolvedor de software do Brasil, com foco em backend, sistemas distribuídos e programação de baixo nível.
 
-I'm Lucas, a software developer from Brazil. I enjoy to work with electronics, backend development, low level programming and game hacking
+Tenho grande interesse por eletrônica, IoT e engenharia de sistemas, buscando entender como tudo funciona por baixo dos panos — do hardware à arquitetura de software. Também exploro temas como mensageria, processamento assíncrono e engenharia reversa, especialmente no contexto de sistemas complexos e jogos.
 
-- 👯 I’m looking to collaborate with opensource projects
-- 💬 Ask me about IoT, electronics and correlated things
-- 📫 How to reach me: [e-mail](mailto:lucas.engen.cc@gmail.com)
+## 🚀 Interesses
 
+- 🔧 Eletrônica e projetos com microcontroladores  
+- 🌐 Desenvolvimento backend e arquitetura de sistemas  
+- ⚙️ Programação de baixo nível (performance, memória, etc.)  
+- 📡 IoT e integração entre hardware e software  
+- 📨 Mensageria e sistemas distribuídos (Kafka, RabbitMQ)  
+- 🗄️ Bancos de dados (modelagem, performance e escalabilidade)  
+- 🔄 CI/CD e automação de pipelines  
+- 🎮 Engenharia reversa e análise de jogos  
+
+## 🤝 Colaboração
+
+Estou aberto a colaborar com projetos open source, principalmente nas áreas de backend, sistemas distribuídos, ferramentas de baixo nível, automação e integração entre hardware e software.
+
+## 💬 Vamos conversar
+
+Se quiser trocar ideias sobre backend, IoT, mensageria, bancos de dados ou sistemas em geral, fico à disposição.
+
+## 📫 Contato
+
+- 📧 lucas.engen.cc@gmail.com
